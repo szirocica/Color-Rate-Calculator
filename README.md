@@ -1,17 +1,18 @@
-# Color-Rate-Calculator
-Python application which calculates the rate of dark and light parts of objects in the input picture.
+Color-Rate-Calculator
+=====================  
 
-For accurate results, the input image shouldn't have a very colourfull background.
+Python application which calculates the rate of dark and light parts of objects in the input picture.  
+---------------------
+
+For accurate results, the input image shouldn't have a very colourful background.
 The bigger part of the image the object, the better the results are.
 To avoid segmentation, the input image should have a one colour background.
 
-Packages used: 
-
- - opencv
- - tkinter
- - math
- - numpy
-
+Packages used:  
+  -`opencv`  
+  -`tkinter`  
+  -`math`  
+  -`numpy`  
 
 How to use:
 
